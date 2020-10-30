@@ -26,7 +26,7 @@ According the Sheffield's Grantham Center, 33% of the world's adequate or high-q
 
 Soil erosion occurs when the topsoil of fertile farmland is lost by wind, water, or tillage. Erosion can also cause the pollution of waterways because chemical inputs (fertilizers and pesticides) are washed into the rivers and lakes. Erosion can also cause the loss of flood control because eroded soils cannot hold water.
 
-However, there are many practices and factors that can affect soil health. Farmers need to increase soil health regenerating practices and reduce soil eroding practices for sustainable food production. The following project provides an insight on which features are most impactful in soil erosion.
+There are many practices and factors that can affect soil health. Farmers need to increase soil health regenerating practices and reduce soil eroding practices for sustainable food production. This project provides an insight on which features are most impactful in soil erosion.
 
 ### Tools Used
 Pandas, SQL, Matplotlib, Seaborn, SKlearn, Streamlit
