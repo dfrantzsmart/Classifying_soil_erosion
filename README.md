@@ -1,6 +1,6 @@
 # Predicting whether soil erosion is tolerated
 ## Identifying areas susceptible to soil erosion 
-###Project 3 at Metis
+### Project 3 at Metis
 
 ### The goal of this project is to identify features in an area of land that significantly impacts soil erosion. The model created in this project uses six features: organic matter, field operations, slope, crop rotation, soil texture, and yield in a random forest model. The prediction accuracy is 95%.
 
