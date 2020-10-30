@@ -2,7 +2,7 @@
 ## Identifying areas susceptible to soil erosion 
 ### Project 3 at Metis
 
-### The goal of this project is to identify features in an area of land that significantly impacts soil erosion. The model created in this project uses six features: organic matter, field operations, slope, crop rotation, soil texture, and yield in a random forest model. The prediction accuracy is 95%.
+### The goal of this project is to identify features in an area of land that significantly impacts soil erosion. The model created in this project uses six features: organic matter, field operations, slope, crop rotation, soil texture, and yield in a random forest model. The target is whether soil erosion is tolerated or not tolerated. According to the NRCS, soil erosion over 5 tons/acre is not tolerated. The prediction accuracy for a Random Forest model is 95%.
 
 Data obtained from
 Tatarko, John; Ascough II, James C.; Nelson, Richard. (2015). Soil erosion and organic matter for central Great Plains cropping systems under residue removal. Ag Data
